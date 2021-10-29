@@ -24,4 +24,5 @@ fields:
   name: toc
   label: toc
 pages:
+- website/content/blog/materi.md
 - website/content/blog/perkenalan.md
